@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80" alt="Clínica Danilo Ribeiro Banner" width="100%" height="auto" style="border-radius: 10px; max-height: 300px; object-fit: cover;">
-  <br>
-  <br>
 
   # 🏥 Clínica Danilo Ribeiro
   ### Fisioterapia Especializada & Pilates
@@ -110,5 +106,5 @@ As imagens utilizadas no projeto são de uso livre (Unsplash/Google) ou assets p
 ---
 
 <div align="center">
-  Desenvolvido com ❤️
+  
 </div>
